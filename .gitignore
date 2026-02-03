@@ -23,4 +23,5 @@ Thumbs.db  # Windows
 .DS_Store  # macOS
 
 # Прочие
-tmp_data.txt
+tmp_data.txt.env
+my_venv/
